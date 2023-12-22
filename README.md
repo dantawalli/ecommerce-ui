@@ -28,9 +28,6 @@ Welcome to the Dantawalli Ecommerce Platform, a robust and feature-rich online s
 
 12. **Open Source:** Our project is open-source, allowing you to customize, extend, and contribute to its development as your ecommerce needs evolve.
 
-This description provides an overview of the project's features, benefits, and encourages collaboration within the developer community. Feel free to customize it further to match the specific details and goals of your GitHub repository.
-=======
-
 
 This is an e-commerce website build using Reactjs and Springboot where you can browse and purchase a variety of products.
 
